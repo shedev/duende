@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EtiPs1H1DeAkZGQ5dC+JmGzm8891E/s7EipXrW7pVXMUyYL7DL5R3ZrjpaqbQ3ErmNaWbkMvBp4/awWu6DnenQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\shede\\Workspace\\Duendo\\src\\client\\client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shede\\.nuget\\packages\\identitymodel\\6.1.0\\identitymodel.6.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
